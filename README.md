@@ -24,8 +24,8 @@ SuperMario's Ability prints "This is inside SuperMario", Mario's prints "This is
 
 # PROGRAM:
 ```
-Developed by:Yogabharathi S
-Register number:212222230179
+Developed by: NAVEEN M
+Register number:212222110029
 ```
 ```c#
 using System;
